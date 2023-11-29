@@ -1,20 +1,18 @@
 # Phase4Project-KitchenStory
-App Name - KitchenStory.com V1.0.1\
-Buying food items made smooth. Use the app to burn your hunger. Add items, remove items and much more !!\
-Developer Name: Javis Ebua\
-Email: javisebua26@gmail.com
+App Name: KitchenStory.com V1.0.1
+Effortless food shopping with KitchenStory. Use the app to satisfy your hunger. Add or remove items with ease!
 
-## Available Scripts
+Developer: Javis Ebua
+Contact Email: Javisebua26@gmail.com
 
-### `npm install`
+Available Scripts:
 
-Run this script in both, the root folder and the ExpressBackend folder to install all the dependencies.
+    Run npm install in both the root folder and the ExpressBackend folder to install dependencies.
+    Execute npm start after extracting the project.
 
-### `npm start`
+Getting Started:
 
-After extracting the project, you first need to start the express backend server.<br />
-In the 'kitchen_story' folder, navigate to the 'ExpressBackend' folder. Open the terminal here and then run 'npm start'.<br />
-This will start the backend server at [http://localhost:3001](http://localhost:3001)
+    Start the Express backend server by navigating to the 'kitchen_story' folder, then into 'ExpressBackend.' Open the terminal and run npm start. This initiates the backend server at http://localhost:3001.
 
-Now, to start the frontend react server, navigate to the root folder 'kitchen_storyU', open the terminal there and then run 'npm start' command.<br />
-This will start the frontend server at [http://localhost:3000](http://localhost:3000)
+    To launch the React frontend server, go to the root folder 'kitchen_storyU,' open the terminal, and execute the npm start command. The frontend server will be up at http://localhost:3000.
+
